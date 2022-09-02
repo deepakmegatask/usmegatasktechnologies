@@ -77,7 +77,7 @@
 		</nav>
 	</header><!-- header -->
 	
-	<a href="https://api.whatsapp.com/send?phone=+971545871570&text=Hello%21%20" class="float" target="_blank"><i class="fa fa-whatsapp my-float" style="font-size:70px;"></i></a>
+	<a href="https://api.whatsapp.com/send?phone=+971545871570&text=Hello%21%20" class="float" target="_blank"><i class="fa fa-whatsapp my-float" style="font-size:50px;"></i></a>
 	
  
 	
