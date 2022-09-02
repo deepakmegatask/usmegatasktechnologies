@@ -5722,8 +5722,8 @@ p i {
 
 .float{
 	position:fixed;
-	width:100px;
-	height:95px;
+	width:80px;
+	height:80px;
 	bottom:40px;
 	right:72px;
 	background-color:#25d366;
@@ -5735,7 +5735,7 @@ p i {
 }
 
 .my-float{
-	margin-top:10px;
+	margin-top:5px;
 }
 
 /*Gallery Img CSS*/

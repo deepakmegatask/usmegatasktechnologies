@@ -116,7 +116,7 @@ a.repeat:hover {
                             <h1><div class="text-skyblue fst d-block animate one"> 
                         <span>W</span><span>e</span><span>b</span>
                         <span>A</span><span>p</span><span>p</span>
-                        </div><div class="scd d-block">All Web Development Services</div></h1>
+                        </div><div class="scd d-block">Web Development Services</div></h1>
                             <div class="d-flex bottom-desc">
                             <p class="mb-0 desc align-self-center"><span> Top Web App Development</span><br>Company in USA</p>
                             </div>
@@ -141,7 +141,7 @@ a.repeat:hover {
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                            <h1><div class="text-skyblue fst d-block">Mobile App </div><div class="scd d-block">All Mobile App Services</div></h1>
+                            <h1><div class="text-skyblue fst d-block">Mobile App </div><div class="scd d-block">Mobile App Development Services</div></h1>
                             <div class="d-flex bottom-desc">
                             <p class="mb-0 desc align-self-center"><span> Top Mobile App Development</span><br>Company in USA</p>
                             </div>
@@ -168,7 +168,7 @@ a.repeat:hover {
                     <div class="container">
                         <div class="row align-items-center">
                             <div class="col-12 col-sm-12 col-md-6 col-lg-6 col-xl-6">
-                            <h1><div class="text-skyblue fst d-block">E-Commerce </div><div class="scd d-block">All E-Commerce Web Services</div></h1>
+                            <h1><div class="text-skyblue fst d-block">E-Commerce </div><div class="scd d-block">E-Commerce Web Development Services</div></h1>
                             <div class="d-flex bottom-desc">
                             <p class="mb-0 desc align-self-center"><span>Top E-Commerce App Development</span><br>Company in USA</p>
                             </div>
