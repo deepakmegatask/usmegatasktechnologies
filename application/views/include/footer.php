@@ -4,7 +4,7 @@
 			<div class="row">
 				<div class="col-12">
 					<div class="f-logo img-wrapper img-center">
-						<img class="footer-logo" src="<?php echo base_url();?>assets/images/logo.png" alt="">
+						<a href="https://megatasktechnologies.com/"><img class="footer-logo" src="<?php echo base_url();?>assets/images/logo.png" alt=""></a>
 					</div>
 					<div class="f-newsletter">
 						<div class="input-group">
