@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 	<meta charset="UTF-8">
-	<title>Megatask Web</title>
+	<title>Megatask Technologies Pvt Ltd</title>
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 	
 	<link rel="stylesheet" type="text/css" href="<?php echo base_url();?>assets/css/animate.css">
@@ -28,7 +28,7 @@
 	<header class="header">
 		<nav class="navbar navbar-expand-lg fixed-top" id="main-nav">
 			<div class="container">
-				<a class="navbar-brand" href="<?php echo base_url();?>">
+				<a class="navbar-brand" href="https://megatasktechnologies.com/">
 					<img class="white-logo" src="<?php echo base_url();?>assets/images/logo.png" alt="">
 					<img class="color-logo" src="<?php echo base_url();?>assets/images/logo1.png" alt="">
 				</a>
@@ -48,7 +48,7 @@
 				<div class="collapse navbar-collapse order-3 order-lg-2" id="main-nav-collapse">
 					<ul class="navbar-nav ml-auto">
 						<li class="nav-item dropdown">
-                            <a class="nav-link " href="<?php echo base_url();?>">
+                            <a class="nav-link" href="#choose">
                                 HOME
                             </a>
                         </li>
