@@ -295,6 +295,11 @@ section.h4-contact.bg-color {
 .my-float {
     margin-top: 6px !important;
 }
+
+.modal-content {
+    width: 97% !important;
+    left: 0 !important;
+}
 }
 
 
