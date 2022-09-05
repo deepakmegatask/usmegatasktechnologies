@@ -152,7 +152,7 @@ button:focus {
      outline: none !important; 
 }
 
-.modal-content {
+.project-show {
     width: 883px !important;
     left: -190px !important;
 }
