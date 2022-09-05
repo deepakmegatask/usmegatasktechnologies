@@ -684,7 +684,6 @@ a.repeat:hover {
        <img src="<?php echo base_url()?>assets/images/projects/Ceramic-Overseas-Front.jpg" data-target="#indicators" data-slide-to="7" alt="" />
   </div>
 </div>
--->
 
 <!-- Modal -->
 <div class="modal fade" id="lightbox" role="dialog" tabindex="-1" aria-labelledby="exampleModalLabel" aria-hidden="true">
