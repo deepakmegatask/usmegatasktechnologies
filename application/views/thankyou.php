@@ -9,7 +9,7 @@ html,body {
     padding: 210px 30px;
     text-align: center;
     background-size: cover;
-    background: linear-gradient(0deg, #212529, rgba(255, 0, 150, 0.3)), url('<?php echo base_url();?>assets/images/thankback.jpg');
+    background: linear-gradient(0deg, #212529, rgb(51 89 84 / 0.5)), url('<?php echo base_url();?>assets/images/thankback.jpg');
         height: 508px;
 }
 .thankyou-page ._header .logo {
@@ -42,7 +42,7 @@ html,body {
 .thankyou-page ._body ._box h3 {
     font-size: 32px;
     font-weight: 600;
-    color: #00bcd4;
+    color: #0d7522;
     margin-top: -50px;
 }
 .thankyou-page ._footer {
@@ -51,7 +51,7 @@ html,body {
 }
 
 .thankyou-page ._footer .btn {
-    background: #00bcd4;
+    background: #20522a;
     color: white;
     border: 0;
     font-size: 14px;
@@ -67,6 +67,22 @@ html,body {
     font-weight: 600;
     font-family: 'Raleway';
     color: khaki;
+}
+
+@media only screen and (max-width: 767px){
+    .thankyou-page ._header h1 {
+    font-size: 40px !important;
+    
+}
+
+._header p {
+    font-size: 25px !important;
+}
+
+.thankyou-page ._body ._box h3 {
+    margin-top: -10px !important;
+}
+
 }
 </style>
 
