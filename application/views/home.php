@@ -662,27 +662,32 @@ a.repeat:hover {
     
 <img src="<?php echo base_url()?>assets/images/projects/gulf-road-front.jpg" data-target="#indicators" data-slide-to="0" alt="" /> 
   </div>
-  <div class="col-12 col-md-6 col-lg-3">
+  <div class="col-12 col-md-6 col-lg-3 project-image">
        <img src="<?php echo base_url()?>assets/images/projects/aleizba-front.jpg" data-target="#indicators" data-slide-to="1" alt="" />
   </div>
-  <div class="col-12 col-md-6 col-lg-3">
+  <div class="col-12 col-md-6 col-lg-3 project-image">
        <img src="<?php echo base_url()?>assets/images/projects/Chef-Khalifa-Front.jpg" data-target="#indicators" data-slide-to="2" alt="" />
   </div>
-  <div class="col-12 col-md-6 col-lg-3">
+  <div class="col-12 col-md-6 col-lg-3 project-image">
        <img src="<?php echo base_url()?>assets/images/projects/Kritika-Top-Stocks-Front.jpg" data-target="#indicators" data-slide-to="3"  alt="" />
   </div>
-  <div class="col-12 col-md-6 col-lg-3">
+  <div class="col-12 col-md-6 col-lg-3 project-image">
        <img src="<?php echo base_url()?>assets/images/projects/Lezzia-Enterprises-Front.jpg" data-target="#indicators" data-slide-to="4" alt="" />
   </div>
-  <div class="col-12 col-md-6 col-lg-3">
+  <div class="col-12 col-md-6 col-lg-3 project-image">
        <img src="<?php echo base_url()?>assets/images/projects/Vijay-Path-Front.jpg" data-target="#indicators" data-slide-to="5" alt="" />
   </div>
-  <div class="col-12 col-md-6 col-lg-3">
+  <div class="col-12 col-md-6 col-lg-3 project-image">
        <img src="<?php echo base_url()?>assets/images/projects/Muscle-Roar-Front.jpg" data-target="#indicators" data-slide-to="6" alt="" />
   </div>
-  <div class="col-12 col-md-6 col-lg-3">
+  <div class="col-12 col-md-6 col-lg-3 project-image">
        <img src="<?php echo base_url()?>assets/images/projects/Ceramic-Overseas-Front.jpg" data-target="#indicators" data-slide-to="7" alt="" />
   </div>
+
+  <div class="col-12 col-md-6 col-lg-3 project-image">
+       <img src="<?php echo base_url()?>assets/images/projects/zovics-front.jpg" data-target="#indicators" data-slide-to="8" alt="" />
+  </div>
+
 </div>
 
 <!-- Modal -->
@@ -702,6 +707,7 @@ a.repeat:hover {
     <li data-target="#indicators" data-slide-to="5"></li>
     <li data-target="#indicators" data-slide-to="6"></li>
     <li data-target="#indicators" data-slide-to="7"></li>
+    <li data-target="#indicators" data-slide-to="8"></li>
   </ol>
   <div class="carousel-inner">
     
@@ -729,6 +735,10 @@ a.repeat:hover {
     </div>
     <div class="carousel-item">
       <img class="d-block w-100" src="<?php echo base_url()?>assets/images/projects/Ceramic-Overseas.jpg" alt="Eight slide">
+    </div>
+
+    <div class="carousel-item">
+      <img class="d-block w-100" src="<?php echo base_url()?>assets/images/projects/zovics.jpg" alt="Nine slide">
     </div>
   </div>
   <a class="carousel-control-prev" href="#indicators" role="button" data-slide="prev">
